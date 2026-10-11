@@ -357,6 +357,16 @@ events:
     end_time: "4:30 PM"
     tags: [family-friendly, ride]
 
+  - title: "11/8 Ride Westside Fix-a-Flat Clinic"
+    date: "November 8, 2026"
+    url: "https://www.shift2bikes.org/calendar/event-25137"
+    start: "Beaverton"
+    end: "Beaverton"
+    start_address: "SW Washington Ave & SW 1st St, Beaverton, OR 97005"
+    start_time: "11:00 AM"
+    end_time: "1:00 PM"
+    tags: [clinic]
+
 recurring:
   # Beaverton Bike Happy Hours - 2nd and 4th Monday
   - title: "Bike Happy Hour"
